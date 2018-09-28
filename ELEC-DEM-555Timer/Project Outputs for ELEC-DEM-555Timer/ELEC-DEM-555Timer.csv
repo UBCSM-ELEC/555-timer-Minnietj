@@ -1,0 +1,7 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"Cap","Capacitor","C1, C2","RAD-0.3","Cap","2"
+"LED1","Typical RED GaAs LED","D1","LED-1","LED1","1"
+"NE555","","NE555","","NE555","1"
+"Res2","Resistor","R1, R2","AXIAL-0.3","Res1","2"
+"Res3","Resistor","R3","AXIAL-0.3","Res1","1"
